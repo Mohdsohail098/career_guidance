@@ -1,4 +1,4 @@
-## Career Guidance Website
+# Career Guidance Website
 
 This project is a responsive career guidance website designed to help students choose their career and college paths after the 10th grade.
 
